@@ -3,7 +3,9 @@
 <h1>💎✨The Rub Dojo ✨💎</h1>
 </p>
 
-Ruby is a language I've been dying to add to my toolbelt, so this repo is for Ruby problem solving practice during *General Assembly's 2019 Software Engineering Immersive* and beyond. 💪🔥The goals and everything for this are a total copy pasta from my [JavaScript Dojo](https://github.com/acupoftee/JS-Practice) repo since both of these languages are awesome:
+Ruby is a language I've been dying to add to my toolbelt, so this repo is for Ruby problem solving practice during *General Assembly's 2019 Software Engineering Immersive* and beyond. At time of writing, we are starting our Ruby lessons so this is being done while simultaneously learning Ruby! 💪🔥
+
+The goals and everything for this are a total copy pasta from my [JavaScript Dojo](https://github.com/acupoftee/JS-Practice) repo since both of these languages are awesome:
 
 * Understand nuances in Ruby problem solving. 
 * Apply Ruby best practices.
